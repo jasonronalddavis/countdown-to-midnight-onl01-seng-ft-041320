@@ -8,6 +8,6 @@ end
 end
 
 
-def countdown_with_sleep(name)
+def countdown_with_sleep(5.minutes)
 puts name >=5
   end
