@@ -9,6 +9,6 @@ end
 
 
 def countdown_with_sleep(STDOUT)
-puts STDOUT +=5
+puts STDOUT >=5
   end
 end
