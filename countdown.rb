@@ -8,7 +8,7 @@ end
 end
 
 
-def countdown_with_sleep(STDOUT)
-puts STDOUT >=5
+def countdown_with_sleep(name)
+puts name >=5
   end
 end
