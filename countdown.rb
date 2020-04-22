@@ -8,6 +8,6 @@ end
 end
 
 
-def countdown_with_sleep(number)
-puts number +=5
+def countdown_with_sleep(STDOUT)
+puts STDOUT +=5
   end
